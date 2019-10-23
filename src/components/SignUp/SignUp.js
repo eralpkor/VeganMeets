@@ -16,7 +16,7 @@ function signUp({ errors, touched, values }) {
               type="text"
               id="login"
               className="fadeIn"
-              name=""
+              name="username"
             />
           </Form>
         </div>
